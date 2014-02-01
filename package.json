@@ -1,7 +1,7 @@
 {
-  "name": "JSCheck",
+  "name": "JS-Quick-Check",
   "version": "0.1.0",
-  "description": "jscheck.js\r Douglas Crockford\r 2012-04-24",
+  "description": "Douglas Crockford's port of QuickCheck to JavaScript",
   "main": "lib/jscheck.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
