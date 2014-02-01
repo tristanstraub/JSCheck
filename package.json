@@ -1,0 +1,19 @@
+{
+  "name": "JSCheck",
+  "version": "0.1.0",
+  "description": "jscheck.js\r Douglas Crockford\r 2012-04-24",
+  "main": "lib/jscheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AndrewRademacher/JSCheck.git"
+  },
+  "author": "Douglas Crockford",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/AndrewRademacher/JSCheck/issues"
+  },
+  "homepage": "https://github.com/AndrewRademacher/JSCheck"
+}
