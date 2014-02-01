@@ -1,5 +1,5 @@
 {
-  "name": "JS-Quick-Check",
+  "name": "js-quick-check",
   "version": "0.1.0",
   "description": "Douglas Crockford's port of QuickCheck to JavaScript",
   "main": "lib/jscheck.js",
