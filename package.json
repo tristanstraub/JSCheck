@@ -1,19 +1,20 @@
 {
-  "name": "js-quick-check",
+  "name": "jscheck",
   "version": "0.1.0",
   "description": "Douglas Crockford's port of QuickCheck to JavaScript",
   "main": "lib/jscheck.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/AndrewRademacher/JSCheck.git"
+    "url": "git://github.com/tristanstraub/JSCheck.git"
   },
   "author": "Douglas Crockford",
+  "contributors": [
+    "Andrew Rademacher",
+    "Tristan Straub <tristan@straub.id.au> allthethings.io"
+  ],
   "license": "Public Domain",
   "bugs": {
-    "url": "https://github.com/AndrewRademacher/JSCheck/issues"
+    "url": "https://github.com/tristanstraub/JSCheck/issues"
   },
-  "homepage": "https://github.com/AndrewRademacher/JSCheck"
+  "homepage": "https://github.com/tristanstraub/JSCheck"
 }
