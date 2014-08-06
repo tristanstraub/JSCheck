@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/tristanstraub/JSCheck/issues"
   },
-  "homepage": "https://github.com/tristanstraub/JSCheck"
+  "homepage": "https://github.com/tristanstraub/JSCheck",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.3"
+  }
 }
